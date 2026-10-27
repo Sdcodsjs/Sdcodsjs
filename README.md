@@ -172,6 +172,5 @@ Tech Stack
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sdcodsjs&theme=dark" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sdcodsjs&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
 
 <img src="https://komarev.com/ghpvc/?username=Sdcodsjs&color=11d452&style=for-the-badge" alt="Visitor Badge" />
